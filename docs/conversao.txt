@@ -1,0 +1,10 @@
+Wagner
+
+Conversão para binário: 
+Letra	 Decimal  Binário
+W --> 		87		 01010111
+a --> 		97		 01100001  
+g --> 		103		 01100111
+n --> 		110		 01101110  
+e --> 		101		 01100101
+r --> 		114		 01110010
