@@ -1,29 +1,179 @@
 *{
     padding: 0;
     margin: 0;
-    outline: 0;
-    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    
 }
 
-html,body{
-    height: 100%;
-    font-size: 62.5%;
-    font-family: 'Times New Roman', Times, serif;
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(31, 30, 30);
+    
+
+}
+
+nav > a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 2rem;
+    padding-bottom: 2rem;
+
+}
+
+footer{
+    background-color:blue;
+}
+
+body{
+    background-color: lightgray;
 }
 
 div{
-    border-width: 0%;
-    border-style: solid;
-    border-color: black;
-    border-radius: 2rem;
-    font-size: 1.5rem;
-    margin-left: 2rem;
-    margin-right: 2rem;
+    background-color: lightgray;
 }
 
-.cair{
-    width: 40rem;
-    height: 30rem;
-    border-radius: 2rem;
-   
+h1{
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-left: 25rem;
+    color:blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: lightgray;
+}
+
+
+#freefire{
+    border-radius: 3rem;
+    width: 73.5rem;
+    height: 20rem;
+}
+
+#mobile{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+}
+
+#pubgm{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top:-15.3rem
+}
+
+#rift{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -4.5rem;
+
+}
+
+#arena{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -15.3rem;
+}
+
+#among{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+    margin-top: -4.5rem;
+}
+
+#duty{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+}
+
+#subway{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
+}
+
+#candy{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+
+}
+
+#fort{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
+}
+
+#go{
+        border-radius: 3rem;
+        width: 36.7rem;
+        height: 15em;
+        margin-left: 36.7rem;
+        margin-top: -10.7rem;
+}
+
+#clans{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
+}
+
+#fruit{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+}
+
+#dragon{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
+}
+
+#mario{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+}
+
+#sonic{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
+}
+
+#clash{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+}
+
+#garden{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
 }

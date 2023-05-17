@@ -11,6 +11,7 @@ header{
     justify-content: space-between;
     background-color: rgb(31, 30, 30);
     
+
 }
 
 nav > a{
@@ -25,9 +26,21 @@ footer{
     background-color:blue;
 }
 
+body{
+    background-color: lightgray;
+}
+
+div{
+    background-color: lightgray;
+}
+
 h1{
+    font-size: 2rem;
     margin-top: 2rem;
     margin-left: 25rem;
+    color:blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: lightgray;
 }
 
 
@@ -79,14 +92,14 @@ h1{
     width: 36.7rem;
     height: 15em;
     margin-left: 36.7rem;
-    margin-top: -15.3rem;
+    margin-top: -10.7rem;
 }
 
 #strike{
     border-radius: 3rem;
     width: 36.7rem;
     height: 15em;
-    margin-top: -4.5rem;
+    margin-top: -8.9rem;
 }
 
 #dota{
@@ -94,13 +107,158 @@ h1{
     width: 36.7rem;
     height: 15em;
     margin-left: 36.7rem;
-    margin-top: -15.3rem;
+    margin-top: -10.7rem;
+
 }
 
 #ring{
     border-radius: 3rem;
     width: 36.7rem;
     height: 15em;
+    margin-top: -8.9rem;
+}
+
+#spider{
+    border-radius: 3rem;
+    width: 73.5rem;
+    height: 20rem;
+}
+
+#diablo{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+}
+
+#fantasy{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top:-15.3rem
+}
+
+#silksong{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
     margin-top: -4.5rem;
+}
+
+#redfall{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -15.3rem;
+}
+
+#resident{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+    margin-top: -4.5rem;
+}
+
+#starfield{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+}
+
+#starwars{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
+}
+
+#street{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+}
+
+#zelda{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
+}
+
+#freefire{
+    border-radius: 3rem;
+    width: 73.5rem;
+    height: 20rem;
+}
+
+#mobile{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+}
+
+#pubgm{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top:-15.3rem
+}
+
+#rift{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -4.5rem;
+}
+
+#arena{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -15.3rem;
+}
+
+#among{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+    margin-top: -4.5rem;
+}
+
+#duty{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+}
+
+#subway{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
+}
+
+#candy{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -10.7rem;
+}
+
+#fort{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -8.9rem;
 }
 
